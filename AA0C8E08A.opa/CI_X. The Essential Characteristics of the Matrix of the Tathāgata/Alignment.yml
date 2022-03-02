@@ -1,0 +1,58 @@
+segment_sources:
+  PE018D10C:
+    type: origin_type
+    relation: translation
+    language: sa
+  P817C92C4:
+    type: origin_type
+    relation: translation
+    language: zh
+  P05A24182:
+    type: origin_type
+    relation: translation
+    language: bo
+  P10CA06B9:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  e1493c7c48f7423b9d2bbe2d3176fc8b:
+    PE018D10C: 9fbd2ec931674e368ea5118093ffcecc
+    P817C92C4: bdb05834efe240d79947dd9281cba2ef
+    P05A24182: ff61f24ada36421a88c879b21d6afe8e
+    P10CA06B9: 6df412921fdd4a6fb1509a6b47c9123e
+  1898cc37e69e40719d7f93b795bf30d8:
+    PE018D10C: cd1775c87d744339a044211491f7b308
+    P817C92C4: d234f61cad3c49c9a7b56106900f97b9
+    P05A24182: 10190f188efa44bf9bfc68545de94217
+    P10CA06B9: d17ae92b93b14c4fae9f84355a2e7f27
+  eddfeb0fd34d4f299bf9fb60e813fffd:
+    PE018D10C: b301f675a2c147549d6ab536169188b1
+    P817C92C4: f4569a65b72742de90a374e61e9c99ab
+    P05A24182: 0272d157d8644ba4b9ada676d9fd485b
+    P10CA06B9: 96384102d5c3400197e844fe4eab5c8f
+  9364197f3920461f878bd2125361c5b8:
+    PE018D10C: 670b462d2f6f4b52ae79a911e5a7461f
+    P817C92C4: 31eb3ada955f45ec9a5ef2b035edfefa
+    P05A24182: e7176ccf6a734ef3ac763913ba88cb55
+    P10CA06B9: d35045f7aee54bc982df198226ab944c
+  8985f7bb1aff46d08d5e098a09eb3c9d:
+    PE018D10C: 0cada23c0ea5449c8bfe84da3b112dcb
+    P817C92C4: eb90b958b20e4af59483a69a54dc0a65
+    P05A24182: 6b0c4666340845b989772a544a398be5
+    P10CA06B9: baeacc33ee3d422a906826302e7ea066
+  f4d74e2d0b9c4496af2b665fcdbc927c:
+    PE018D10C: 2e35006d692e44138071b4a0f1f5e105
+    P817C92C4: f23de97df4fc4eb4a77c7c706bfe97e9
+    P05A24182: 408e9ab2a436443dbfe66537042a9461
+    P10CA06B9: 76e90d87b6824caaa69d7427b5a1f416
+  47a0fa7524ed4a57ad41d31da330bed6:
+    PE018D10C: c48a3c73b8bd410a82b7c7c3d7c18649
+    P817C92C4: f114f55303f34caea760f62e0be4d357
+    P05A24182: b0e38f9f4a3b4737873ac47787ce0a2b
+    P10CA06B9: f435e32b889c487aaf7ce9159ae8a2a2
+  dfdd3b7161d546d2a2c22409f11b358a:
+    PE018D10C: None
+    P817C92C4: None
+    P05A24182: None
+    P10CA06B9: 7c7879c546964a3793aca8011f34d030

@@ -1,0 +1,23 @@
+segment_sources:
+  PE018D10C:
+    type: origin_type
+    relation: translation
+    language: sa
+  P817C92C4:
+    type: origin_type
+    relation: translation
+    language: zh
+  P05A24182:
+    type: origin_type
+    relation: translation
+    language: bo
+  P10CA06B9:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  82bed93747e74ba098047cc62d5972b3:
+    PE018D10C: df47fdb8ce7648b2b06b87685a0642d0
+    P817C92C4: 6d7b52e1f11e4709bb19785a351c4c56
+    P05A24182: 7dce09bd32424fdc8a9fd02e4b4f4015
+    P10CA06B9: 0697e08b6fdc4f01b8519cacb924dca4

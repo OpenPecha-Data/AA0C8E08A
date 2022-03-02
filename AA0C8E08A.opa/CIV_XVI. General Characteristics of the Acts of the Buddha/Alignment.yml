@@ -1,0 +1,33 @@
+segment_sources:
+  PE018D10C:
+    type: origin_type
+    relation: translation
+    language: sa
+  P817C92C4:
+    type: origin_type
+    relation: translation
+    language: zh
+  P05A24182:
+    type: origin_type
+    relation: translation
+    language: bo
+  P10CA06B9:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  d877414292134eee82e14dae84581727:
+    PE018D10C: a76b20260b014545988d6d9f19380ca1
+    P817C92C4: 7ad7a11e1bc54475b4ae95be86480b1a
+    P05A24182: fee8aca83e8b4b0692eeefdeeaef9189
+    P10CA06B9: 6b20ac09e7b542bfbc113d868c5de393
+  7752f6f894cb40829457e4e8145609c6:
+    PE018D10C: 7f16eb1131474a728a9cf6276e198120
+    P817C92C4: e7e3dd09195947489c549217ca153811
+    P05A24182: 24e8d99180f94615b657d3b66fccdf84
+    P10CA06B9: c5dd2dd764ed49089671ee345380f168
+  ab2fa0a3fe5c423f893cbed9670db381:
+    PE018D10C: None
+    P817C92C4: None
+    P05A24182: None
+    P10CA06B9: cd2b457e9d9f407eb422b3e50d731bd6
